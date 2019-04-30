@@ -19,13 +19,13 @@ chmod +x install_KI9H_OLED_patch.sh;
 
 ![Image loading ...](/KI9H_OLED.JPG)  
 
-### Recovery official and upgrade to new pi-star version  
+### Recovery official
 
 Ctrl+C and Ctry+V the follow content,    
 ```
 rpi-rw;
 sudo rm /usr/local/bin/MMDVMHost;
-sudo pistar-update && sudo pistar-upgrade;
+sudo mv /usr/local/bin/MMDVMHost_official /usr/local/bin/MMDVMHost;
 
 ```
 
