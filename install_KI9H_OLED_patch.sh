@@ -13,5 +13,4 @@ sudo chmod +x MMDVMHost;
 rpi-rw;
 sudo mv /usr/local/bin/MMDVMHost "/usr/local/bin/MMDVMHost_official_`date`";
 sudo mv MMDVMHost /usr/local/bin/MMDVMHost;
-rpi-ro;
 sudo /usr/local/sbin/mmdvmhost.service restart;

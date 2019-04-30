@@ -3,7 +3,7 @@ MMDVM Script
 
 ## install_KI9H_OLED_patch.sh  
 
---Enter ssh mode  
+Enter ssh mode  
 http://pi-star:2222   
 User:  pi-star   
 Pass:  raspberry   
