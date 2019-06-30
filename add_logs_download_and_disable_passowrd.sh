@@ -5,7 +5,6 @@
 #user: pi-star
 #password: raspberry
 
-rpi-rw;
 cd ~
 curl -OL https://github.com/bi7jta/mmdvm_patch/raw/master/pi-star;
 rpi-rw;
