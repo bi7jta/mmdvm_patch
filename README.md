@@ -1,5 +1,5 @@
-# MMDVM_SCRIPT  
-MMDVM Script  ,visit my Google BLOG for more information www.bi7jta.org
+# mmdvm_patch  
+Visit my Google BLOG for more information www.bi7jta.org
 
 ### install_KI9H_OLED_patch.sh  
 
