@@ -31,13 +31,7 @@ chmod +x install_KI9H_OLED_patch.sh;
 
 ```
 
-![Image loading ...](/KI9H_OLED.JPG)  
-
-### Recovery official
- 
-
-```
-
+![Image loading ...](/KI9H_OLED.JPG)     
 Thanks DU1ZC provide this information.  
 
 
