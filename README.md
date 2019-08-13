@@ -40,6 +40,7 @@ chmod +x install_KI9H_OLED_patch.sh;
 
 Thanks DU1ZC provide this information.  
 
+
 ### 3, update DMRid    
 
 ```
