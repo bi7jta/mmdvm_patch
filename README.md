@@ -43,4 +43,5 @@ curl -OL https://raw.githubusercontent.com/bi7jta/mmdvm_patch/master/dmrid_updat
 chmod +x dmrid_update.sh;   
 ./dmrid_update.sh;  
 
-```
+```  
+![Image loading ...](/updateDMRids.png)  
