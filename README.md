@@ -38,4 +38,14 @@ chmod +x install_KI9H_OLED_patch.sh;
 
 ```
 
-Thanks DU1ZC provide this information.
+Thanks DU1ZC provide this information.  
+
+### 3, update DMRid    
+
+```
+rpi-rw;
+curl -OL https://raw.githubusercontent.com/bi7jta/mmdvm_patch/master/dmrid_update.sh;   
+chmod +x dmrid_update.sh;   
+./dmrid_update.sh;  
+
+```
