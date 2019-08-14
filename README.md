@@ -15,9 +15,9 @@ curl -OL https://raw.githubusercontent.com/bi7jta/mmdvm_patch/master/add_logs_do
 chmod +x add_logs_download_and_disable_passowrd.sh;     
 ./add_logs_download_and_disable_passowrd.sh;    
 ```
-List and download MMDVM logs files Config file  
-http://192.168.1.17/logs/conf/ (change to your pi-star IP address)  
-
+List and download MMDVM logs  
+http://192.168.1.17/logs/ (change to your pi-star IP address)  
+![Image loading ...](/pistarlogs.png)   
 
 Reference http://wiki.pistar.uk/Dashboard_Dissable_Password  
 
@@ -44,5 +44,4 @@ chmod +x dmrid_update.sh;
 ./dmrid_update.sh;  
 
 ```  
-![Image loading ...](/updateDMRidsShell.png)   
 ![Image loading ...](/updateDMRids.png)  
