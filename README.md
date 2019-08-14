@@ -44,4 +44,5 @@ chmod +x dmrid_update.sh;
 ./dmrid_update.sh;  
 
 ```  
+![Image loading ...](/updateDMRidsShell.png)   
 ![Image loading ...](/updateDMRids.png)  
