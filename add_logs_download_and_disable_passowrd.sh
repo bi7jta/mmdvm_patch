@@ -10,7 +10,7 @@
 sudo mount -o remount,rw / ;
 	
 cd ~
-curl -OL https://github.com/bi7jta/mmdvm_patch/raw/master/pi-star;
+curl -OL https://www.bi7jta.org/files/github_files/pi-star;
 sudo cp -f ~/pi-star /etc/nginx/sites-enabled/pi-star;
 sudo ln -s /etc /var/log/pi-star/conf  
 sudo nginx -s reload
